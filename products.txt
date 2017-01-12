@@ -1,0 +1,23 @@
+Vendor Name: labtam-inc
+proftp
+Vendor Name: labtech_software
+labtech
+Vendor Name: lacie
+lac9000436u
+lac9000436u_firmware
+lac9000464u
+lac9000464u_firmware
+Vendor Name: lancope
+stealthwatch
+Vendor Name: landesk
+landesk_management_suite
+landesk_security_suite
+landesk_server_manager
+lenovo_thinkmanagement_console
+management_gateway
+Vendor Name: landing_pages_project
+landing_pages
+landing_pages_plugin
+Vendor Name: lanier
+pcl6
+rpcs
